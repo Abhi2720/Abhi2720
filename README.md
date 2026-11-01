@@ -26,34 +26,34 @@ Currently focused on strengthening my backend development skills, building proje
 **Languages**
 
 
-\
 
 
-**Frontend Development**
+
+```**Frontend Development**
 HTML
 CSS
 Tailwind
 Javascript
 React js
-\
+```
 
 
-**Backend Development**
+```**Backend Development**
 Node js
 Express js
 C++
 C
 Python
-\
+```
 
 
-**Databases & Tools**
+```**Databases & Tools**
 Mongo db
 Mongoose
 PostgreSQL
 github
 bash
-\
+```
 
 
 ---
